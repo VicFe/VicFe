@@ -1,8 +1,4 @@
-# Ola! Eu sou o Victor
-
-- 😍 Adora a área de progamação (eu diria que é meu viver)
-- 💻 Estudo progamação.
-- 📖 Estudando curso tecnico em informática.
+# 💻 - Programming is my life!!!
 
 <div align="center">
   <a href="https://github.com/VicFe">
